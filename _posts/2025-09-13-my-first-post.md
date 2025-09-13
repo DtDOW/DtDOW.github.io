@@ -10,6 +10,6 @@ Hi guys, and welcome to my first post! This website will be a glimpse into my li
 
 As for my profile pic, its the first actual picture of a blackhole took by humans 
 
-![Alt text](/assets/lib/Black_hole_-_Messier_87_crop_max_res-2.jpg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg)
 
 The Event Horizon Telescope (EHT) — a planet-scale array of eight ground-based radio telescopes forged through international collaboration — was designed to capture images of a black hole. In coordinated press conferences across the globe, EHT researchers revealed that they succeeded
