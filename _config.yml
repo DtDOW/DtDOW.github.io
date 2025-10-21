@@ -98,7 +98,8 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.ibb.co/Xf03nL0g/Whats-App-Image-2025-10-11-at-15-41-56.jpg
+avatar: https://i.ibb.co/ZRLLDxfN/Whats-App-Image-2025-10-11-at-15-41-56.jpg
+#https://i.ibb.co/Xf03nL0g/Whats-App-Image-2025-10-11-at-15-41-56.jpg
 #https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
