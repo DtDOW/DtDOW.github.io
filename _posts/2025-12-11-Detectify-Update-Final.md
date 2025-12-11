@@ -714,9 +714,12 @@ def predict_file(path):
 </body>
 </html>
 ```
+{% endraw %}
+
 ## SignUp HTML : 
 
-```python 
+{% raw %}
+```HTML 
 {% extends "base.html" %}
 
 {% block head %}
@@ -780,7 +783,7 @@ a{color:#5eead4;text-decoration:none;}
 
 ## Login HTML : 
 
-{% endraw %}
+{% raw %}
 ```HTML
 {% extends "base.html" %}
 
