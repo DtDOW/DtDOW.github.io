@@ -1,8 +1,8 @@
 ---
 title: Detectify - an app to detect deepfakes !!
 date: 2025-09-15
-categories: [project, active]
-tags: [project, active, technology, detectify]
+categories: [project, closed]
+tags: [project, closed, technology, detectify]
 ---
 ## Detectify - an app to detect deepfakes !!
 

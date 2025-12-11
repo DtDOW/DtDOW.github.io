@@ -1,8 +1,8 @@
 ---
 title: Detectify Update 1 
 date: 2025-10-24
-categories: [project, active]
-tags: [project, active, technology, detectify]
+categories: [project, closed]
+tags: [project, closed, technology, detectify]
 ---
 
 ## Detectify - Scanning Faces : First step towards detecting deepfakes. 
