@@ -17,6 +17,7 @@ https://detectify-1tby.onrender.com
 ![Results](https://i.ibb.co/Gfb69gBg/Screenshot-2025-12-11-at-13-01-05.png)
 
 ## Detectify ML Model : 
+
 ```python 
 import joblib
 from sklearn.decomposition import PCA
@@ -359,9 +360,10 @@ def predict_file(path):
 
 ```
 
-## Index HTML : 
+## Index HTML :
 
-```python
+{% raw %}
+```HTML
 <!doctype html>
 <html lang="en">
 <head>
@@ -601,10 +603,12 @@ def predict_file(path):
 </body>
 </html>
 ```
+{% endraw %}
 
 ## Base HTML : 
 
-```python 
+{% raw %}
+```HTML
 <!doctype html>
 <html lang="en">
 <head>
@@ -772,10 +776,12 @@ a{color:#5eead4;text-decoration:none;}
   </div>
 {% endblock %}
 ```
+{% endraw %}
 
 ## Login HTML : 
 
-```python 
+{% endraw %}
+```HTML
 {% extends "base.html" %}
 
 {% block head %}
@@ -847,4 +853,5 @@ a{color:#5eead4;text-decoration:none;}
 
 {% endblock %}
 ```
+{% endraw %}
 
